@@ -1,0 +1,161 @@
+/* styles.css */
+
+/* Global Styles */
+body {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  /* Header Styles */
+  .header {
+    padding: 20px;
+  }
+  
+  .navbar {
+    background-color: transparent;
+    padding: 0;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    font-size: 18px;
+    padding: 8px 15px;
+  }
+  
+  /* Hero Section Styles */
+  .hero {
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .hero-title {
+    font-size: 48px;
+    font-weight: bold;
+    color: #00ffea;
+    text-shadow: 0 0 10px #00ffea, 0 0 20px #00ffea, 0 0 30px #00ffea, 0 0 40px #00ffea, 0 0 50px #00ffea;
+  }
+  
+  .hero-subtitle {
+    font-size: 24px;
+    color: #00ffea;
+    text-shadow: 0 0 10px #00ffea, 0 0 20px #00ffea, 0 0 30px #00ffea;
+  }
+  
+  /* About Us Section Styles */
+  .about {
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .about h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #00ffea;
+    text-shadow: 0 0 10px #00ffea, 0 0 20px #00ffea, 0 0 30px #00ffea;
+  }
+  
+  /* Services Section Styles */
+  .services {
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .services h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #00ffea;
+    text-shadow: 0 0 10px #00ffea, 0 0 20px #00ffea, 0 0 30px #00ffea;
+  }
+  
+  .service-item {
+    margin-bottom: 30px;
+  }
+  
+  .service-item h3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #00ffea;
+  }
+  
+  .service-item p {
+    color: #00ffea;
+  }
+  
+  /* Project Section Styles */
+  .projects {
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .projects h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #00ffea;
+    text-shadow: 0 0 10px #00ffea, 0 0 20px #00ffea, 0 0 30px #00ffea;
+  }
+  
+  .project-item {
+    margin-bottom: 30px;
+  }
+  
+  .project-item h3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #00ffea;
+  }
+  
+  .project-item p {
+    color: #00ffea;
+  }
+  
+  /* Contact Us Section Styles */
+  .contact {
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .contact h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: #00ffea;
+    text-shadow: 0 0 10px #00ffea, 0 0 20px #00ffea, 0 0 30px #00ffea;
+  }
+  
+  .contact form {
+    margin-bottom: 30px;
+  }
+  
+  .form-control {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  .btn-primary {
+    background-color: #00ffea;
+    border-color: #00ffea;
+  }
+  
+  .btn-primary:hover {
+    background-color: #00e6d0;
+    border-color: #00e6d0;
+  }
+  
+  /* Footer Styles */
+  .footer {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer p {
+    margin: 0;
+    color: #00ffea;
+  }
+  
